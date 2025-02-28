@@ -1,0 +1,27 @@
+body {
+    background-color: #ffffff; /* Cinza claro */
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+
+h1 {
+    font-size: 90px;
+  }
+
+h2 {
+    font-size: 50px;
+  }
+
+p {
+    font-size: 30px;
+  }
+
+ol {
+    font-size: 30px;
+  }
+
+ <ol h2>  {
+   font-size: 50px;
+  }
